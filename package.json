@@ -1,0 +1,17 @@
+{ 
+"name":"calc5d6", 
+"version":"0.1.1", 
+"main":"calc", 
+"repository": { 
+"type": "git", 
+"url": "https://github.com/saisekhar123/calc5d6" 
+}, 
+"keywords": [ 
+"calc", 
+"calc5d6","psk"
+], 
+"dependencies": {}, 
+"engines": { 
+"node": "*" 
+} 
+}
